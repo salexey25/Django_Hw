@@ -6,9 +6,9 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         # Создаем заказ с данными о клиенте и продуктах.
-        client = ClientModel.objects.get(name='John')
-        product1 = ProductModel.objects.get(name='fridge')
-        product2 = ProductModel.objects.get(name='dish washer')
+        client = ClientModel.objects.get(name='Kiril')
+        product1 = ProductModel.objects.get(name='sofa')
+        product2 = ProductModel.objects.get(name='armchair')
 
         # Создание нового заказа
         order = OrderModel(customer=client,
