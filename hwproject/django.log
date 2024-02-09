@@ -337,3 +337,15 @@ Watching for file changes with StatReloader
 C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\views.py changed, reloading.
 Watching for file changes with StatReloader
 "GET /hw2/history_of_orders/ HTTP/1.1" 200 2277
+Watching for file changes with StatReloader
+"GET /hw2/history_of_orders/ HTTP/1.1" 200 2277
+Not Found: /hw2/history_of_orders/1
+"GET /hw2/history_of_orders/1 HTTP/1.1" 404 2676
+Not Found: /hw2/history_of_orders/2
+"GET /hw2/history_of_orders/2 HTTP/1.1" 404 2676
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2498
+Not Found: /hw2/history_of_orders/1
+"GET /hw2/history_of_orders/1 HTTP/1.1" 404 2676
+"GET /hw2/history_of_orders/ HTTP/1.1" 200 2277
