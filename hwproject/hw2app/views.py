@@ -1,7 +1,8 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import OrderModel
 from django.utils import timezone
 from django.utils.timezone import timedelta
+from .forms import ProductForms
 
 # Create your views here.
 def history_of_orders(request):
@@ -17,3 +18,13 @@ def history_of_orders(request):
     }
 
     return render(request, 'hw2app/history_of_orders.html', context)
+
+def products_form(request):
+    if request.method == 'POST':
+        form = ProductForms(request.POST, request.FILES)
+        if form.is_valid():
+            form.save()
+ #           return redirect('product_list')
+    else:
+        form = ProductForms()
+    return render(request, 'hw2app/products_form.html', {'form': form})
