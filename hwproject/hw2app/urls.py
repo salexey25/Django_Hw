@@ -1,6 +1,6 @@
 from django.urls import path
-from . import views
+from .views import history_of_orders
 
-# urlpatterns = [
-#     path('main/', views.main, name='main')
-#     ]
+urlpatterns = [
+    path('history_of_orders/', history_of_orders, name='history_of_orders'),
+]
