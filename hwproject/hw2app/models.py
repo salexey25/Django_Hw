@@ -1,4 +1,5 @@
 from django.db import models
+from django.urls import reverse
 
 # Create your models here.
 class ClientModel(models.Model):
@@ -17,6 +18,7 @@ class ProductModel(models.Model):
     price = models.DecimalField(max_digits=10, decimal_places=2)
     count = models.IntegerField()
     createdate = models.DateField(auto_now_add=True)
+    photo = models.ImageField(upload_to='product_photos/', default='path/to/default/image.jpg')
 
     def __str__(self):
         return f'Заведен новый продукт: {self.name}'
