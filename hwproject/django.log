@@ -337,3 +337,258 @@ Watching for file changes with StatReloader
 C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\views.py changed, reloading.
 Watching for file changes with StatReloader
 "GET /hw2/history_of_orders/ HTTP/1.1" 200 2277
+Watching for file changes with StatReloader
+"GET /hw2/history_of_orders/ HTTP/1.1" 200 2277
+Not Found: /hw2/history_of_orders/1
+"GET /hw2/history_of_orders/1 HTTP/1.1" 404 2676
+Not Found: /hw2/history_of_orders/2
+"GET /hw2/history_of_orders/2 HTTP/1.1" 404 2676
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2498
+Not Found: /hw2/history_of_orders/1
+"GET /hw2/history_of_orders/1 HTTP/1.1" 404 2676
+"GET /hw2/history_of_orders/ HTTP/1.1" 200 2277
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2498
+Not Found: /prefix/
+"GET /prefix/ HTTP/1.1" 404 2537
+Not Found: /products/
+"GET /products/ HTTP/1.1" 404 2543
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /products/
+"GET /products/ HTTP/1.1" 404 2543
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2498
+Not Found: /prefix/
+"GET /prefix/ HTTP/1.1" 404 2537
+Not Found: /products/
+"GET /products/ HTTP/1.1" 404 2543
+Not Found: /products_form/
+"GET /products_form/ HTTP/1.1" 404 2558
+"GET /hw2/products_form/ HTTP/1.1" 200 1075
+"POST /hw2/products_form/ HTTP/1.1" 200 1075
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hwproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2498
+"GET /hw2/products_form/ HTTP/1.1" 200 1250
+Internal Server Error: /hw2/products_form/
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: table hw2app_productmodel has no column named image
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\views.py", line 26, in products_form
+    form.save()
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\forms\models.py", line 551, in save
+    self.instance.save()
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\query.py", line 1845, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: table hw2app_productmodel has no column named image
+"POST /hw2/products_form/ HTTP/1.1" 500 153986
+Watching for file changes with StatReloader
+Internal Server Error: /hw2/products_form/
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: table hw2app_productmodel has no column named image
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\views.py", line 26, in products_form
+    form.save()
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\forms\models.py", line 551, in save
+    self.instance.save()
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\query.py", line 1845, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: table hw2app_productmodel has no column named image
+"POST /hw2/products_form/ HTTP/1.1" 500 154103
+Internal Server Error: /hw2/products_form/
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: table hw2app_productmodel has no column named image
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\views.py", line 26, in products_form
+    form.save()
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\forms\models.py", line 551, in save
+    self.instance.save()
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\query.py", line 1845, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: table hw2app_productmodel has no column named image
+"POST /hw2/products_form/ HTTP/1.1" 500 154103
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2498
+"GET /hw2/products_form/ HTTP/1.1" 200 1241
+"POST /hw2/products_form/ HTTP/1.1" 200 1283
