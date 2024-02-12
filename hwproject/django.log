@@ -592,3 +592,639 @@ Not Found: /
 "GET / HTTP/1.1" 404 2498
 "GET /hw2/products_form/ HTTP/1.1" 200 1241
 "POST /hw2/products_form/ HTTP/1.1" 200 1283
+Watching for file changes with StatReloader
+"GET /hw2/products_form/ HTTP/1.1" 200 1241
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2498
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+"GET /static/admin/css/base.css HTTP/1.1" 200 21544
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hwproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+Watching for file changes with StatReloader
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 5949
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 7131
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 11051
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 12451
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/add/ HTTP/1.1" 200 11693
+"GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"POST /admin/hw2app/productmodel/add/ HTTP/1.1" 302 0
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 13124
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 13184
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 13184
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 17283
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/22/change/ HTTP/1.1" 200 13848
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 17283
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/15/change/ HTTP/1.1" 200 13850
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 17283
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 13184
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 13747
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 17283
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 19026
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 13747
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 19026
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 11553
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 19026
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 19026
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 11553
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 19026
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 13747
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 19026
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 13747
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/9/change/ HTTP/1.1" 200 12534
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 19026
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 11553
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 13747
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 19026
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 13747
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 14051
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 14051
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 20013
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/?date_order__gte=2024-02-12&date_order__lt=2024-02-13 HTTP/1.1" 200 10520
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/? HTTP/1.1" 200 20013
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/?date_order__gte=2024-02-05&date_order__lt=2024-02-13 HTTP/1.1" 200 10520
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/?date_order__gte=2024-02-01&date_order__lt=2024-03-01 HTTP/1.1" 200 22117
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/ordermodel/?date_order__gte=2024-02-01&date_order__lt=2024-03-01 HTTP/1.1" 200 22727
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/ordermodel/?date_order__gte=2024-02-01&date_order__lt=2024-03-01 HTTP/1.1" 200 22727
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 14543
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 14543
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/?q=sofa HTTP/1.1" 200 11602
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/productmodel/?q=sofa HTTP/1.1" 200 11602
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/?q=sofa HTTP/1.1" 200 11602
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/?q= HTTP/1.1" 200 14809
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 11553
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 12045
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 12045
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 12045
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/add/ HTTP/1.1" 200 11368
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 12045
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 12045
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/add/ HTTP/1.1" 200 11368
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 12045
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/4/change/ HTTP/1.1" 200 11721
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 12045
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 20384
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/22/change/ HTTP/1.1" 200 13848
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 20384
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 23469
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21789
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /admin/hw2app/ordermodel/
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\options.py", line 714, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1981, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\options.py", line 862, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\views\main.py", line 90, in __init__
+    self.root_queryset = model_admin.get_queryset(request)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py", line 22, in get_queryset
+    qs = qs.annotate(products_list=models.ExpressionWrapper(
+                                   ^^^^^^
+NameError: name 'models' is not defined
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 500 124304
+"GET /admin/ HTTP/1.1" 200 8029
+Internal Server Error: /admin/hw2app/ordermodel/
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\options.py", line 714, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1981, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\options.py", line 862, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\views\main.py", line 90, in __init__
+    self.root_queryset = model_admin.get_queryset(request)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py", line 22, in get_queryset
+    qs = qs.annotate(products_list=models.ExpressionWrapper(
+                                   ^^^^^^
+NameError: name 'models' is not defined
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 500 124139
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /admin/hw2app/ordermodel/
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such function: array_agg
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\options.py", line 714, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\options.py", line 2120, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+                                                           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\query.py", line 1926, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such function: array_agg
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 500 179332
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /admin/hw2app/ordermodel/
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\options.py", line 714, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1981, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\options.py", line 862, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\views\main.py", line 90, in __init__
+    self.root_queryset = model_admin.get_queryset(request)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py", line 23, in get_queryset
+    qs = qs.annotate(products_list=models.ArrayAgg(
+                                   ^^^^^^^^^^^^^^^
+AttributeError: module 'django.db.models' has no attribute 'ArrayAgg'
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 500 124385
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /admin/hw2app/ordermodel/
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\options.py", line 681, in get_field
+    return self.fields_map[field_name]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'get_products_list'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\utils.py", line 289, in lookup_field
+    f = _get_non_gfk_field(opts, name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\utils.py", line 322, in _get_non_gfk_field
+    field = opts.get_field(name)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\db\models\options.py", line 683, in get_field
+    raise FieldDoesNotExist(
+django.core.exceptions.FieldDoesNotExist: OrderModel has no field named 'get_products_list'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\templatetags\base.py", line 45, in render
+    return super().render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\template\library.py", line 258, in render
+    _dict = self.func(*resolved_args, **resolved_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 343, in result_list
+    "results": list(results(cl)),
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 319, in results
+    yield ResultList(None, items_for_result(cl, res, None))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 310, in __init__
+    super().__init__(*items)
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 217, in items_for_result
+    f, attr, value = lookup_field(field_name, result, cl.model_admin)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\.venv\Lib\site-packages\django\contrib\admin\utils.py", line 298, in lookup_field
+    value = attr(obj)
+            ^^^^^^^^^
+  File "C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py", line 26, in get_products_list
+    return obj.products_list
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'OrderModel' object has no attribute 'products_list'
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 500 387956
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21789
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21789
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21789
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21789
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21789
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21789
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21789
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 14543
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 12045
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21789
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/productmodel/ HTTP/1.1" 200 14543
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21789
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/add/ HTTP/1.1" 200 13601
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21789
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+"POST /admin/hw2app/ordermodel/ HTTP/1.1" 200 8981
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+"POST /admin/hw2app/ordermodel/ HTTP/1.1" 302 0
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 21040
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
+C:\Users\Aleksei\data\Pycharm\Django_Hw\hwproject\hw2app\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw2app/ordermodel/ HTTP/1.1" 200 20889
+"GET /admin/jsi18n/ HTTP/1.1" 200 17546
