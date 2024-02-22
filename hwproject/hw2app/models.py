@@ -29,7 +29,10 @@ class OrderModel(models.Model):
     date_order = models.DateField(auto_now_add=True)
     total_price = models.DecimalField(max_digits=10, decimal_places=2)
 
+    def get_products_list(self):
+        return ", ".join([str(product.name) for product in self.products.all()])
     def __str__(self):
         return f'{self.date_order}'
+
 
 
