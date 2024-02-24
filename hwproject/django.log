@@ -1253,3 +1253,9 @@ Watching for file changes with StatReloader
 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
 "GET /admin/hw2app/clientmodel/ HTTP/1.1" 200 12045
 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 179
+Not Found: /products/
+"GET /products/ HTTP/1.1" 404 179
+"GET /hw2/products_form/ HTTP/1.1" 200 1241
