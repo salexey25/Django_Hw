@@ -1261,3 +1261,4 @@ Not Found: /
 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
