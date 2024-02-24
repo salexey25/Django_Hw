@@ -2,3 +2,10 @@
 .idea/
 *.pyc
 __pycache__/
+/hwproject/hw2app/__pycache__/
+/hwproject/hw1app/__pycache__/
+/hwproject/hwproject/__pycache__/
+/hwproject/hw2app/management/__pycache__/
+/hwproject/hw2app/management/commands/__pycache__/
+/hwproject/hw2app/migrations/__pycache__/
+/hwproject/hw1app/migrations/__pycache__/
