@@ -8,4 +8,8 @@ __pycache__/
 /hwproject/hw2app/management/__pycache__/
 /hwproject/hw2app/management/commands/__pycache__/
 /hwproject/hw2app/migrations/__pycache__/
+<<<<<<< HEAD
 /hwproject/hw1app/migrations/__pycache__/
+=======
+/hwproject/hw1app/migrations/__pycache__/
+>>>>>>> master
